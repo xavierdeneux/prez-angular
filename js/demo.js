@@ -7,7 +7,7 @@
 
     app.controller('demoController', ['$scope', function ($scope) {
     	this.demo1 = function(){
-    		console.log('???');
+    		
     	};
     }]);
 
