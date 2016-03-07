@@ -3,3 +3,21 @@
   border: none;
   box-shadow: none;
 }
+
+body {
+  background-image: url("../img/background.png");
+  background-size: contain;
+}
+
+.full {
+  height: 100%;
+  width: 100%;
+}
+
+.hero {
+  background-image: url("../img/hero3.svg");
+}
+
+.hero.present {
+  background: none;
+}
